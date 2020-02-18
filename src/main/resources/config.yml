@@ -1,0 +1,19 @@
+database:
+  mongo:
+    host: "0.0.0.0"
+    port: 27017
+    database: "bcore"
+    authentication:
+      enabled: false
+      username: ""
+      password: ""
+      database: "bcore"
+  redis:
+    host: "0.0.0.0"
+    port: 6379
+    authentication:
+      enabled: false
+      password: ""
+server: # Types: PRODUCTION,KITPVP,ZOMBIES,HUB,TEST,OTHER;
+  type: "TEST"
+  id: "test"

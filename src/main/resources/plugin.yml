@@ -1,0 +1,6 @@
+name: bCore
+version: ${project.version}
+main: xyz.baqel.bcore.bCore
+author: Baqel
+description: Core
+website: https://baqel.xyz/db/bcore

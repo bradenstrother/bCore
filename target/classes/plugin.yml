@@ -1,0 +1,6 @@
+name: bCore
+version: 1.0
+main: xyz.baqel.bcore.bCore
+author: Baqel
+description: The core plugin made specifically for ClockHQ
+website: https://clockhq.us
